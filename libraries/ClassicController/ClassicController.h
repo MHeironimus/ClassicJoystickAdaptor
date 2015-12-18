@@ -7,7 +7,26 @@ Created by Matthew Heironimus, 04/27/2015.
 #ifndef ClassicController_h
 #define ClassicController_h
 
-#include "Arduino.h"
+#include <Keyboard.h>
+#include <Joystick3.h>
+
+// Define special keyboard keys not defined in Keyboard library.
+#define KEY_NUMPAD_DIVIDE   0xDC
+#define KEY_NUMPAD_MULTIPLY 0xDD
+#define KEY_NUMPAD_MINUS    0xDE
+#define KEY_NUMPAD_PLUS     0xDF
+#define KEY_NUMPAD_ENTER    0xE0
+#define KEY_NUMPAD_1        0xE1
+#define KEY_NUMPAD_2        0xE2
+#define KEY_NUMPAD_3        0xE3
+#define KEY_NUMPAD_4        0xE4
+#define KEY_NUMPAD_5        0xE5
+#define KEY_NUMPAD_6        0xE6
+#define KEY_NUMPAD_7        0xE7
+#define KEY_NUMPAD_8        0xE8
+#define KEY_NUMPAD_9        0xE9
+#define KEY_NUMPAD_0        0xEA
+#define KEY_NUMPAD_DEL      0xEB
 
 // Constants
 const int NOT_USED = -1;
