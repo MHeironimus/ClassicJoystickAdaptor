@@ -5,10 +5,8 @@ For Arduino IDE Version 1.6.5 or earlier, please use the Arduino-1.6.5 branch. I
 ## Arduino IDE Version 1.6.6 or later
 For Arduino IDE Version 1.6.6 or later, please use the main branch. This is the branch that will see future updates.
 ## Dependencies
-### Arduino Joystick Library
-This Arduino sketch file depends on the [Arduino Joystick Library](http://mheironimus.blogspot.com/2015/11/arduino-joystick-library.html) which can be found on GitHub at [MHeironimus/ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary).
 ### Classic Controller Library
-It also depends on the Classic Controller Library, which can be found in this GitHub repository at /source/libraries/ClassicController.
+This Arduino sketch file depends on the Classic Controller Library, which can be found in this GitHub repository at /source/libraries/ClassicController.
 ## Hardware - Building Your Own Adapter
 Please see the [TBD](http://mheironimus.blogspot.com/) blog posting or the [TBD](http://www.instructables.com/) Instructable for details on how to build your own Ultimate Classic Game Console Joystick USB Adaptor.
 
