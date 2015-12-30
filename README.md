@@ -10,6 +10,6 @@ This Arduino sketch file depends on the [Arduino Joystick Library](http://mheiro
 ### Classic Controller Library
 It also depends on the Classic Controller Library, which can be found in this GitHub repository at /source/libraries/ClassicController.
 ## Hardware - Building Your Own Adapter
-Please see the [TBD](http://mheironimus.blogspot.com/) blog posting or the [TBD](http://www.instructables.com/) Instructable for details on how to build your own Ultimate Classic Game Console Joystick USB Adaptor.
+Please see the [Ultimate Classic Game Console Joystick to USB Adapter](http://mheironimus.blogspot.com/2015/12/ultimate-classic-game-console-joystick.html) blog posting or the [Ultimate Classic Game Console Joystick to USB Adapter](http://www.instructables.com/id/Ultimate-Classic-Game-Console-Joystick-to-USB-Adap/) Instructable for details on how to build your own Ultimate Classic Game Console Joystick USB Adaptor.
 
 
